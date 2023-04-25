@@ -32,13 +32,20 @@
 
       <section xml:id="localisation">
         <title>Localisation</title>
+        
         <p>Aux États-Unis, il y a cinquante états dont le plus peuplé est la Californie, avec près de 40 millions d'habitants en 2020.</p>
-        <figure xml:id="figure-californie">
-            <caption>Californie</caption>
-            <image width="90%" source="assets/images/californie.png">
-                <description>Californie</description>
-            </image>
-        </figure>
+        
+        <p><url href="https://www.google.com/maps/place/Californie,+%C3%89tats-Unis">Carte de la Californie</url></p>
+
+        <question>
+          <statement>
+            <p>Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento, Los Angeles et San Diego?</p>
+          </statement>
+          <answer>
+            <p>Interstate 5</p>
+          </answer>
+        </question>
+
         <p>Westwood est un quartier de Los Angeles, en Californie.</p>
       </section>
 

@@ -39,14 +39,61 @@
 
         <question>
           <statement>
-            <p>Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento, Los Angeles et San Diego?</p>
+            <p>Comment s'appelle l'océan qui borde la Californie?</p>
           </statement>
           <answer>
-            <p>Interstate 5</p>
+            <p>L'Océan Pacifique.</p>
           </answer>
         </question>
 
-        <p>Westwood est un quartier de Los Angeles, en Californie.</p>
+        <p>La capitale de la Californie n'est pas sa ville la plus grande, ni la plus connue : c'est Sacramento, à mi-chemin entre San Francisco et le lac Tahoe.</p> 
+
+        <question>
+          <statement>
+            <p>Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento à Los Angeles?</p>
+          </statement>
+          <answer>
+            <p>L'Interstate 5.</p>
+          </answer>
+        </question>
+
+        <p>La ville la plus peuplée et la plus étendue de Californie, c'est Los Angeles. Son nom signifie <em>les anges</em> en espagnol.</p>
+
+        <question>
+          <statement>
+            <p>Quel est le pays hispanophone qu'on trouve juste au sud de la Californie?</p>
+          </statement>
+          <answer>
+            <p>Le Mexique.</p>
+          </answer>
+        </question>
+
+        <p>Westwood est un quartier de Los Angeles situé au nord-ouest de la ville.</p>
+        
+        <p><url href="https://www.google.com/maps/place/Westwood,+Los+Angeles,+Californie,+%C3%89tats-Unis">Carte de Westwood</url></p>
+
+        <question>
+          <statement>
+            <p>Quel est le nom du boulevard sinueux qui délimite le nord de Westwood?</p>
+          </statement>
+          <answer>
+            <p>Sunset Boulevard.</p>
+          </answer>
+        </question>
+
+        <p>Pendant l'année scolaire 2005-2006, j'ai habité à Westwood chez Alex et Anne-Marie, au 461 Levering Avenue.</p>
+        
+        <p><url href="https://www.google.com/maps/place/461+Levering+Ave,+Los+Angeles,+CA+90024,+%C3%89tats-Unis">461 Levering Avenue</url></p>
+
+        <question>
+          <statement>
+            <p>Quel type d'arbre dépasse du toit derrière la maison?</p>
+          </statement>
+          <answer>
+            <p>Un palmier.</p>
+          </answer>
+        </question>
+
       </section>
 
     </chapter>

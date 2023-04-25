@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Localisation",
-  "body": " Localisation  Aux États-Unis, il y a cinquante états dont le plus peuplé est la Californie, avec près de 40 millions d'habitants en 2020.  Carte de la Californie    Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento, Los Angeles et San Diego?    Interstate 5    Westwood est un quartier de Los Angeles, en Californie.  "
+  "body": " Localisation  Aux États-Unis, il y a cinquante états dont le plus peuplé est la Californie, avec près de 40 millions d'habitants en 2020.  Carte de la Californie    Comment s'appelle l'océan qui borde la Californie?    L'Océan Pacifique.    La capitale de la Californie n'est pas sa ville la plus grande, ni la plus connue : c'est Sacramento, à mi-chemin entre San Francisco et le lac Tahoe.    Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento à Los Angeles?    L'Interstate 5.    La ville la plus peuplée et la plus étendue de Californie, c'est Los Angeles. Son nom signifie les anges en espagnol.    Quel est le pays hispanophone qu'on trouve juste au sud de la Californie?    Le Mexique.    Westwood est un quartier de Los Angeles situé au nord-ouest de la ville.  Carte de Westwood    Quel est le nom du boulevard sinueux qui délimite le nord de Westwood?    Sunset Boulevard.    Pendant l'année scolaire 2005-2006, j'ai habité à Westwood chez Alex et Anne-Marie, au 461 Levering Avenue.  461 Levering Avenue    Quel type d'arbre dépasse du toit derrière la maison?    Un palmier.    "
 },
 {
   "id": "question-1",
@@ -25,7 +25,43 @@ var ptx_lunr_docs = [
   "type": "Question",
   "number": "1.1.1",
   "title": "",
-  "body": "  Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento, Los Angeles et San Diego?    Interstate 5   "
+  "body": "  Comment s'appelle l'océan qui borde la Californie?    L'Océan Pacifique.   "
+},
+{
+  "id": "question-2",
+  "level": "2",
+  "url": "localisation.html#question-2",
+  "type": "Question",
+  "number": "1.1.2",
+  "title": "",
+  "body": "  Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento à Los Angeles?    L'Interstate 5.   "
+},
+{
+  "id": "question-3",
+  "level": "2",
+  "url": "localisation.html#question-3",
+  "type": "Question",
+  "number": "1.1.3",
+  "title": "",
+  "body": "  Quel est le pays hispanophone qu'on trouve juste au sud de la Californie?    Le Mexique.   "
+},
+{
+  "id": "question-4",
+  "level": "2",
+  "url": "localisation.html#question-4",
+  "type": "Question",
+  "number": "1.1.4",
+  "title": "",
+  "body": "  Quel est le nom du boulevard sinueux qui délimite le nord de Westwood?    Sunset Boulevard.   "
+},
+{
+  "id": "question-5",
+  "level": "2",
+  "url": "localisation.html#question-5",
+  "type": "Question",
+  "number": "1.1.5",
+  "title": "",
+  "body": "  Quel type d'arbre dépasse du toit derrière la maison?    Un palmier.   "
 }
 ]
 

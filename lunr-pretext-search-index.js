@@ -16,7 +16,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Localisation",
-  "body": " Localisation  Westwood est un quartier de Los Angeles, en Californie.  "
+  "body": " Localisation  Aux États-Unis, il y a cinquante états dont le plus peuplé est la Californie, avec près de 40 millions d'habitants en 2020.   Californie   Californie    Westwood est un quartier de Los Angeles, en Californie.  "
+},
+{
+  "id": "figure-californie",
+  "level": "2",
+  "url": "localisation.html#figure-californie",
+  "type": "Figure",
+  "number": "1.1.1",
+  "title": "",
+  "body": " Californie   Californie   "
 }
 ]
 

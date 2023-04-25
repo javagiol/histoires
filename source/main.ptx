@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<pretext xml:lang="fr-FR" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <docinfo>
+    <macros>
+      \newcommand{\R}{\mathbb R}
+    </macros>
+    <latex-image-preamble>
+      \usepackage{tikz}
+    </latex-image-preamble>
+  </docinfo>
+
+  <book xml:id="my-great-book">
+    <title>Histoires</title>
+    <subtitle>pour Albert et Victor</subtitle>
+
+    <frontmatter xml:id="frontmatter">
+      <titlepage>
+        <author>
+          <personname>Julien Giol</personname>
+        </author>
+        <date>
+          <today />
+        </date>
+      </titlepage>
+
+    </frontmatter>
+
+    <chapter xml:id="westwood">
+      <title>Westwood</title>
+
+      <section xml:id="localisation">
+        <title>Localisation</title>
+        <p>Westwood est un quartier de Los Angeles, en Californie.</p>
+      </section>
+
+    </chapter>
+
+  </book>
+</pretext>

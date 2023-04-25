@@ -16,16 +16,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Localisation",
-  "body": " Localisation  Aux États-Unis, il y a cinquante états dont le plus peuplé est la Californie, avec près de 40 millions d'habitants en 2020.   Californie   Californie    Westwood est un quartier de Los Angeles, en Californie.  "
+  "body": " Localisation  Aux États-Unis, il y a cinquante états dont le plus peuplé est la Californie, avec près de 40 millions d'habitants en 2020.  Carte de la Californie    Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento, Los Angeles et San Diego?    Interstate 5    Westwood est un quartier de Los Angeles, en Californie.  "
 },
 {
-  "id": "figure-californie",
+  "id": "question-1",
   "level": "2",
-  "url": "localisation.html#figure-californie",
-  "type": "Figure",
+  "url": "localisation.html#question-1",
+  "type": "Question",
   "number": "1.1.1",
   "title": "",
-  "body": " Californie   Californie   "
+  "body": "  Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento, Los Angeles et San Diego?    Interstate 5   "
 }
 ]
 

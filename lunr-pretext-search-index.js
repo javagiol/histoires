@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Localisation",
-  "body": " Localisation  Salut  "
+  "body": " Localisation  Westwood est un quartier de Los Angeles, en Californie.  "
 }
 ]
 

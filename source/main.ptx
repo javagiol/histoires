@@ -11,9 +11,8 @@
     </latex-image-preamble>
   </docinfo>
 
-  <book xml:id="my-great-book">
-    <title>Histoires</title>
-    <subtitle>pour Albert et Victor</subtitle>
+  <book xml:id="histoires-pour-albert-et-victor">
+    <title>Histoires pour Albert et Victor</title>
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
@@ -35,7 +34,14 @@
         
         <p>Aux États-Unis, il y a cinquante états dont le plus peuplé est la Californie, avec près de 40 millions d'habitants en 2020.</p>
         
-        <p><url href="https://www.google.com/maps/place/Californie,+%C3%89tats-Unis">Carte de la Californie</url></p>
+        <figure xml:id="carte-californie">
+            <caption>La Californie.</caption>
+            <interactive
+              xml:id="interactive-carte-californie"
+              iframe="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512739.689202133!2d-124.5931848890628!3d37.151542068971864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornie%2C%20%C3%89tats-Unis!5e0!3m2!1sfr!2sca!4v1682454368296!5m2!1sfr!2sca"
+              width="95%"
+              aspect="15:10"/>
+        </figure>
 
         <question>
           <statement>
@@ -70,7 +76,14 @@
 
         <p>Westwood est un quartier de Los Angeles situé au nord-ouest de la ville.</p>
         
-        <p><url href="https://www.google.com/maps/place/Westwood,+Los+Angeles,+Californie,+%C3%89tats-Unis">Carte de Westwood</url></p>
+        <figure xml:id="carte-westwood">
+            <caption>Westwood, quartier de Los Angeles</caption>
+            <interactive
+              xml:id="interactive-carte-westwood"
+              iframe="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26441.434277397948!2d-118.46094143426166!3d34.06491808170991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc86dafdc779%3A0x63e3f17ff5535356!2sWestwood%2C%20Los%20Angeles%2C%20Californie%2C%20%C3%89tats-Unis!5e0!3m2!1sfr!2sca!4v1682453339982!5m2!1sfr!2sca"
+              width="95%"
+              aspect="15:10"/>
+        </figure>
 
         <question>
           <statement>
@@ -82,8 +95,15 @@
         </question>
 
         <p>Pendant l'année scolaire 2005-2006, j'ai habité à Westwood chez Alex et Anne-Marie, au 461 Levering Avenue.</p>
-        
-        <p><url href="https://www.google.com/maps/place/461+Levering+Ave,+Los+Angeles,+CA+90024,+%C3%89tats-Unis">461 Levering Avenue</url></p>
+
+        <figure xml:id="carte-levering">
+            <caption>461 Levering Avenue.</caption>
+            <interactive
+              xml:id="interactive-carte-levering"
+              iframe="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.0670048181228!2d-118.45958982407608!3d34.06779657315126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc90d259d7c5%3A0x7c41fff295d816e4!2s461%20Levering%20Ave%2C%20Los%20Angeles%2C%20CA%2090024%2C%20%C3%89tats-Unis!5e0!3m2!1sfr!2sca!4v1682454558099!5m2!1sfr!2sca"
+              width="95%"
+              aspect="15:10"/>
+        </figure>
 
         <question>
           <statement>

@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Localisation",
-  "body": " Localisation  Aux États-Unis, il y a cinquante états dont le plus peuplé est la Californie, avec près de 40 millions d'habitants en 2020.   La Californie.      Comment s'appelle l'océan qui borde la Californie?    L'Océan Pacifique.    La capitale de la Californie n'est pas sa ville la plus grande, ni la plus connue : c'est Sacramento, à mi-chemin entre San Francisco et le lac Tahoe.    Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento à Los Angeles?    L'Interstate 5.    La ville la plus peuplée et la plus étendue de Californie, c'est Los Angeles. Son nom signifie les anges en espagnol.    Quel est le pays hispanophone qu'on trouve juste au sud de la Californie?    Le Mexique.    Westwood est un quartier de Los Angeles situé au nord-ouest de la ville.   Westwood, quartier de Los Angeles      Quel est le nom du boulevard sinueux qui délimite le nord de Westwood?    Sunset Boulevard.    Pendant l'année scolaire 2005-2006, j'ai habité à Westwood chez Alex et Anne-Marie, au 461 Levering Avenue.   461 Levering Avenue.      Quel type d'arbre dépasse du toit derrière la maison?    Un palmier.    "
+  "body": " Localisation  Aux États-Unis, il y a cinquante états dont le plus peuplé est la Californie, avec près de 40 millions d'habitants en 2020.   La Californie.      Comment s'appelle l'océan qui borde la Californie?    L'Océan Pacifique.    La capitale de la Californie n'est pas sa ville la plus grande, ni la plus connue : c'est Sacramento, à mi-chemin entre San Francisco et le lac Tahoe.    Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento à Los Angeles?    L'Interstate 5.  Interstate 5 , c'est aussi le titre d'une chanson d'un de mes groupes préférés : The Wedding Present.   Interstate 5 par The Wedding Present.      La ville la plus peuplée et la plus étendue de Californie, c'est Los Angeles. Son nom signifie les anges en espagnol.    Quel est le pays hispanophone qu'on trouve juste au sud de la Californie?    Le Mexique.    Westwood est un quartier de Los Angeles situé au nord-ouest de la ville.   Westwood, quartier de Los Angeles.      Quel est le nom du boulevard sinueux qui délimite le nord de Westwood?    Sunset Boulevard.    Pendant l'année scolaire 2005-2006, j'ai habité à Westwood chez Alex et Anne-Marie, au 461 Levering Avenue.   461 Levering Avenue.      Quel type d'arbre dépasse du toit derrière la maison?    Un palmier.    "
 },
 {
   "id": "carte-californie",
@@ -43,14 +43,14 @@ var ptx_lunr_docs = [
   "type": "Question",
   "number": "1.1.3",
   "title": "",
-  "body": "  Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento à Los Angeles?    L'Interstate 5.   "
+  "body": "  Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento à Los Angeles?    L'Interstate 5.  Interstate 5 , c'est aussi le titre d'une chanson d'un de mes groupes préférés : The Wedding Present.   Interstate 5 par The Wedding Present.     "
 },
 {
   "id": "question-3",
   "level": "2",
   "url": "localisation.html#question-3",
   "type": "Question",
-  "number": "1.1.4",
+  "number": "1.1.5",
   "title": "",
   "body": "  Quel est le pays hispanophone qu'on trouve juste au sud de la Californie?    Le Mexique.   "
 },
@@ -59,16 +59,16 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "localisation.html#carte-westwood",
   "type": "Figure",
-  "number": "1.1.5",
+  "number": "1.1.6",
   "title": "",
-  "body": " Westwood, quartier de Los Angeles   "
+  "body": " Westwood, quartier de Los Angeles.   "
 },
 {
   "id": "question-4",
   "level": "2",
   "url": "localisation.html#question-4",
   "type": "Question",
-  "number": "1.1.6",
+  "number": "1.1.7",
   "title": "",
   "body": "  Quel est le nom du boulevard sinueux qui délimite le nord de Westwood?    Sunset Boulevard.   "
 },
@@ -77,7 +77,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "localisation.html#carte-levering",
   "type": "Figure",
-  "number": "1.1.7",
+  "number": "1.1.8",
   "title": "",
   "body": " 461 Levering Avenue.   "
 },
@@ -86,9 +86,45 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "localisation.html#question-5",
   "type": "Question",
-  "number": "1.1.8",
+  "number": "1.1.9",
   "title": "",
   "body": "  Quel type d'arbre dépasse du toit derrière la maison?    Un palmier.   "
+},
+{
+  "id": "ucla",
+  "level": "1",
+  "url": "ucla.html",
+  "type": "Section",
+  "number": "1.2",
+  "title": "UCLA",
+  "body": " UCLA  Pendant mon année passée à Los Angeles, j'étais postdoc à UCLA sous la direction du mathématicien Sorin Popa.  UCLA, c'est l'Université de Californie à Los Angeles. Son campus est magnifique et se trouve en plein coeur de Westwood.   UCLA vue du ciel.      Peux-tu trouver le département de mathématiques sur la carte suivante?   UCLA.     Il se trouve entre le UCLA Store et la Court of Sciences .   À UCLA, on ne fait pas qu'étudier, on fait aussi du sport. Les équipes sportives portent toutes le même nom : les Bruins . Un des axes principaux du campus s'appelle d'ailleurs la Bruin Walk . On y trouve la statue emblématique de UCLA qui représente un ours brun, en plein coeur du campus.    Peux-tu trouver la statue de l'ours brun sur la carte suivante?   UCLA.     Il se trouve tout près du UCLA Store .   UCLA est une université prestigieuse à laquelle sont associés un bon nombre de prix Nobel comme professeurs ou comme anciens étudiants, notamment en chimie.  Côté mathématiques, on y trouve une médaille Fields : il s'agit de Terence Tao, qu'on considère parfois comme le Mozart des maths. Grâce à sa présence et à celle de nombreux autres individus très brillants, le département de mathématiques de UCLA est aujourd'hui considéré comme un des meilleurs du monde.  Pendant mon séjour là-bas, j'ai eu la chance d'y fréquenter des experts mondiaux des algèbres d'opérateurs tels que Sorin Popa, Ed Effros, Dima Shlyakhtenko, Taka Ozawa, Adrian Ioana et Jesse Peterson. J'en garde un souvenir très inspirant.  "
+},
+{
+  "id": "figure-5",
+  "level": "2",
+  "url": "ucla.html#figure-5",
+  "type": "Figure",
+  "number": "1.2.1",
+  "title": "",
+  "body": " UCLA vue du ciel.   "
+},
+{
+  "id": "question-6",
+  "level": "2",
+  "url": "ucla.html#question-6",
+  "type": "Question",
+  "number": "1.2.2",
+  "title": "",
+  "body": "  Peux-tu trouver le département de mathématiques sur la carte suivante?   UCLA.     Il se trouve entre le UCLA Store et la Court of Sciences .  "
+},
+{
+  "id": "question-7",
+  "level": "2",
+  "url": "ucla.html#question-7",
+  "type": "Question",
+  "number": "1.2.4",
+  "title": "",
+  "body": "  Peux-tu trouver la statue de l'ours brun sur la carte suivante?   UCLA.     Il se trouve tout près du UCLA Store .  "
 }
 ]
 

@@ -125,6 +125,60 @@ var ptx_lunr_docs = [
   "number": "1.2.4",
   "title": "",
   "body": "  Peux-tu trouver la statue de l'ours brun sur la carte suivante?   UCLA.     Il se trouve tout près du UCLA Store .  "
+},
+{
+  "id": "marilyn",
+  "level": "1",
+  "url": "marilyn.html",
+  "type": "Section",
+  "number": "1.3",
+  "title": "Marilyn Monroe",
+  "body": " Marilyn Monroe  Marilyn Monroe est une figure emblématique de l'histoire du cinéma et de la culture américaine.  Voici des extraits de films dans lesquels elle a joué.   Extraits de films avec Marilyn Monroe.    Elle était aussi chanteuse. La voici qui chante I wanna be loved by you dans le film Some Like It Hot (1959) de Billy Wilder.   Poupoupidou.    On raconte qu'elle eut une relation amoureuse avec le président américain John Fitzgerald Kennedy. Le 19 mai 1962, c'est elle qui monte sur scène au Madison Square Garden de New York pour lui souhaiter un bon anniversaire en chanson.   Happy Birthday, Mr. President.    Marilyn Monroe est née à Los Angeles en 1926, et morte dans la même ville en 1962. Sa tombe est à Westwood, à quelques mètres du bureau d'Alex qui se trouve au 10866 sur le Boulevard Wilshire. Nonno, qui est un ami d'Alex, a travaillé dans ce bureau au début des années 90.   Le 10866 Boulevard Wilshire à Westwood.      Peux-tu trouver la tombe de Marilyn Monroe sur la carte ci-dessus?    Cherche Marilyn Monroe's Crypt à l'est du point rouge.    "
+},
+{
+  "id": "figure-8",
+  "level": "2",
+  "url": "marilyn.html#figure-8",
+  "type": "Figure",
+  "number": "1.3.1",
+  "title": "",
+  "body": " Extraits de films avec Marilyn Monroe.   "
+},
+{
+  "id": "figure-9",
+  "level": "2",
+  "url": "marilyn.html#figure-9",
+  "type": "Figure",
+  "number": "1.3.2",
+  "title": "",
+  "body": " Poupoupidou.   "
+},
+{
+  "id": "figure-10",
+  "level": "2",
+  "url": "marilyn.html#figure-10",
+  "type": "Figure",
+  "number": "1.3.3",
+  "title": "",
+  "body": " Happy Birthday, Mr. President.   "
+},
+{
+  "id": "carte-10866-wilshire",
+  "level": "2",
+  "url": "marilyn.html#carte-10866-wilshire",
+  "type": "Figure",
+  "number": "1.3.4",
+  "title": "",
+  "body": " Le 10866 Boulevard Wilshire à Westwood.   "
+},
+{
+  "id": "question-8",
+  "level": "2",
+  "url": "marilyn.html#question-8",
+  "type": "Question",
+  "number": "1.3.5",
+  "title": "",
+  "body": "  Peux-tu trouver la tombe de Marilyn Monroe sur la carte ci-dessus?    Cherche Marilyn Monroe's Crypt à l'est du point rouge.   "
 }
 ]
 

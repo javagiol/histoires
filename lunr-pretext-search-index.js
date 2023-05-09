@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "UCLA",
-  "body": " UCLA  Pendant mon année passée à Los Angeles, j'étais postdoc à UCLA sous la direction du mathématicien Sorin Popa.  UCLA, c'est l'Université de Californie à Los Angeles. Son campus est magnifique et se trouve en plein coeur de Westwood.   UCLA vue du ciel.      Peux-tu trouver le département de mathématiques sur la carte suivante?   UCLA.     Il se trouve entre le UCLA Store et la Court of Sciences .   À UCLA, on ne fait pas qu'étudier, on fait aussi du sport. Les équipes sportives portent toutes le même nom : les Bruins . Un des axes principaux du campus s'appelle d'ailleurs la Bruin Walk . On y trouve la statue emblématique de UCLA qui représente un ours brun, en plein coeur du campus.    Peux-tu trouver la statue de l'ours brun sur la carte suivante?   UCLA.     Il se trouve tout près du UCLA Store .   UCLA est une université prestigieuse à laquelle sont associés un bon nombre de prix Nobel comme professeurs ou comme anciens étudiants, notamment en chimie.  Côté mathématiques, on y trouve une médaille Fields : il s'agit de Terence Tao, qu'on considère parfois comme le Mozart des maths. Grâce à sa présence et à celle de nombreux autres individus très brillants, le département de mathématiques de UCLA est aujourd'hui considéré comme un des meilleurs du monde.  Pendant mon séjour là-bas, j'ai eu la chance d'y fréquenter des experts mondiaux des algèbres d'opérateurs tels que Sorin Popa, Ed Effros, Dima Shlyakhtenko, Taka Ozawa, Adrian Ioana et Jesse Peterson. J'en garde un souvenir très inspirant.  "
+  "body": " UCLA  Pendant mon année passée à Los Angeles, j'étais postdoc à UCLA sous la direction du mathématicien Sorin Popa.  UCLA, c'est l'Université de Californie à Los Angeles. Son campus est magnifique et se trouve en plein coeur de Westwood.   UCLA vue du ciel.      Peux-tu trouver le département de mathématiques sur la carte suivante?   UCLA.     Il se trouve entre le UCLA Store et la Court of Sciences .   À UCLA, on ne fait pas qu'étudier, on fait aussi du sport. Les équipes sportives portent toutes le même nom : les Bruins . Un des axes principaux du campus s'appelle d'ailleurs la Bruin Walk . On y trouve la statue emblématique de UCLA qui représente un ours brun, en plein coeur du campus.    Peux-tu trouver la statue de l'ours brun sur la carte suivante?   UCLA.     Il se trouve tout près du UCLA Store .   UCLA est une université prestigieuse à laquelle sont associés un bon nombre de prix Nobel comme professeurs ou comme anciens étudiants, notamment en chimie.  Côté mathématiques, on y trouve une médaille Fields : il s'agit de Terence Tao, qu'on considère parfois comme le Mozart des maths. Grâce à sa présence et à celle de nombreux autres individus très brillants, le département de mathématiques de UCLA est aujourd'hui considéré comme un des meilleurs du monde.  Pendant mon séjour là-bas, j'ai eu la chance d'y fréquenter des experts mondiaux des algèbres d'opérateurs tels que Sorin Popa, Ed Effros, Dima Shlyakhtenko, Taka Ozawa, Adrian Ioana et Jesse Peterson. J'en garde un souvenir très inspirant.   Jesse, Sorin et Ed chez Dima.    "
 },
 {
   "id": "figure-5",
@@ -127,6 +127,15 @@ var ptx_lunr_docs = [
   "body": "  Peux-tu trouver la statue de l'ours brun sur la carte suivante?   UCLA.     Il se trouve tout près du UCLA Store .  "
 },
 {
+  "id": "figure-8",
+  "level": "2",
+  "url": "ucla.html#figure-8",
+  "type": "Figure",
+  "number": "1.2.6",
+  "title": "",
+  "body": " Jesse, Sorin et Ed chez Dima.   "
+},
+{
   "id": "marilyn",
   "level": "1",
   "url": "marilyn.html",
@@ -136,27 +145,27 @@ var ptx_lunr_docs = [
   "body": " Marilyn Monroe  Marilyn Monroe est une figure emblématique de l'histoire du cinéma et de la culture américaine.  Voici des extraits de films dans lesquels elle a joué.   Extraits de films avec Marilyn Monroe.    Elle était aussi chanteuse. La voici qui chante I wanna be loved by you dans le film Some Like It Hot (1959) de Billy Wilder.   Poupoupidou.    On raconte qu'elle eut une relation amoureuse avec le président américain John Fitzgerald Kennedy. Le 19 mai 1962, c'est elle qui monte sur scène au Madison Square Garden de New York pour lui souhaiter un bon anniversaire en chanson.   Happy Birthday, Mr. President.    Marilyn Monroe est née à Los Angeles en 1926, et morte dans la même ville en 1962. Sa tombe est à Westwood, à quelques mètres du bureau d'Alex qui se trouve au 10866 sur le Boulevard Wilshire. Nonno, qui est un ami d'Alex, a travaillé dans ce bureau au début des années 90.   Le 10866 Boulevard Wilshire à Westwood.      Peux-tu trouver la tombe de Marilyn Monroe sur la carte ci-dessus?    Cherche Marilyn Monroe's Crypt à l'est du point rouge.    "
 },
 {
-  "id": "figure-8",
+  "id": "figure-9",
   "level": "2",
-  "url": "marilyn.html#figure-8",
+  "url": "marilyn.html#figure-9",
   "type": "Figure",
   "number": "1.3.1",
   "title": "",
   "body": " Extraits de films avec Marilyn Monroe.   "
 },
 {
-  "id": "figure-9",
+  "id": "figure-10",
   "level": "2",
-  "url": "marilyn.html#figure-9",
+  "url": "marilyn.html#figure-10",
   "type": "Figure",
   "number": "1.3.2",
   "title": "",
   "body": " Poupoupidou.   "
 },
 {
-  "id": "figure-10",
+  "id": "figure-11",
   "level": "2",
-  "url": "marilyn.html#figure-10",
+  "url": "marilyn.html#figure-11",
   "type": "Figure",
   "number": "1.3.3",
   "title": "",
@@ -179,6 +188,15 @@ var ptx_lunr_docs = [
   "number": "1.3.5",
   "title": "",
   "body": "  Peux-tu trouver la tombe de Marilyn Monroe sur la carte ci-dessus?    Cherche Marilyn Monroe's Crypt à l'est du point rouge.   "
+},
+{
+  "id": "photos-westwood",
+  "level": "1",
+  "url": "photos-westwood.html",
+  "type": "Section",
+  "number": "1.4",
+  "title": "Photos",
+  "body": " Photos  En arrivant à Westwood, j'ai acheté mon premier appareil photo numérique, un Canon PowerShot Elph. J'ai fait tellement de photos avec qu'il a fini par mourir en 2007, peu de temps après que j'ai rencontré maman.    Voici Alex et Anne-Marie, devant un restaurant mexicain de Westwood qui n'existe plus aujourd'hui. Ci-dessous, leur maison et leurs chiens de l'époque : Daisy le pitbull, Rocco et Kaiser les rottweilers jumeaux. Tous les matins, c'est moi qui les nourrissais. Et tous les soirs, je les promenais à tour de rôle autour du bloc. La photo des chiens a été prise juste avant le déjeuner qu'ils engloutissaient en moins de temps qu'il m'en fallait pour préparer leur nourriture.       La fenêtre de la chambre d'amis que j'occupais se trouve au premier étage, à droite. Le selfie qui suit a été fait à l'intérieur, devant le tableau qui décorait la chambre.      Ci-dessus, le Whole Foods Market , est l'épicerie où j'achetais ma nourriture comme la délicieuse soupe aux poivrons rouges et tomates dont je raffolais.  Et maintenant, des photos prises sur le campus de UCLA. On y voit le bureau que m'avait prêté Jim Ralston, le mathématicien Leonhard Euler, le Royce Hall et l'ours emblématique de l'université.          "
 }
 ]
 

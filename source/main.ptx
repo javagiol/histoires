@@ -184,6 +184,11 @@
           Pendant mon séjour là-bas, j'ai eu la chance d'y fréquenter des experts mondiaux des algèbres d'opérateurs tels que Sorin Popa, Ed Effros, Dima Shlyakhtenko, Taka Ozawa, Adrian Ioana et Jesse Peterson.
           J'en garde un souvenir très inspirant.
         </p>
+  
+        <figure>
+          <caption>Jesse, Sorin et Ed chez Dima.</caption>
+          <image source="westwood-jessesorined.JPG" width="70%"/>
+        </figure>
 
       </section>
 
@@ -241,6 +246,61 @@
             <p>Cherche <em>Marilyn Monroe's Crypt à l'est du point rouge.</em></p>
           </hint>
         </question>
+
+      </section>
+
+      <section xml:id="photos-westwood">
+        <title>Photos</title>
+      
+        <p>
+          En arrivant à Westwood, j'ai acheté mon premier appareil photo numérique, un Canon PowerShot Elph.
+          J'ai fait tellement de photos avec qu'il a fini par mourir en 2007, peu de temps après que j'ai rencontré maman.
+        </p>
+
+        <sidebyside widths="45% 40%" margins="5%">
+            <image source="westwood-acapulco.JPG"/>
+            <p>
+              Voici Alex et Anne-Marie, devant un restaurant mexicain de Westwood qui n'existe plus aujourd'hui.
+              Ci-dessous, leur maison et leurs chiens de l'époque : Daisy le pitbull, Rocco et Kaiser les rottweilers jumeaux.
+              Tous les matins, c'est moi qui les nourrissais.
+              Et tous les soirs, je les promenais à tour de rôle autour du bloc.
+              La photo des chiens a été prise juste avant le déjeuner qu'ils engloutissaient en moins de temps qu'il m'en fallait pour préparer leur nourriture.
+            </p>
+        </sidebyside>
+
+        <sidebyside widths="45% 40%" margins="5%" valigns="middle bottom">
+            <image source="westwood-461.JPG"/>
+            <image source="westwood-dogs.JPG"/>
+        </sidebyside>
+
+        <p>
+          La fenêtre de la chambre d'amis que j'occupais se trouve au premier étage, à droite.
+          Le <em>selfie</em> qui suit a été fait à l'intérieur, devant le tableau qui décorait la chambre.
+        </p>
+
+        <sidebyside widths="45% 40%" margins="5%" valigns="middle bottom">
+            <image source="westwood-moi.JPG"/>
+            <image source="westwood-wholefoods.JPG"/>
+        </sidebyside>
+
+        <p>
+          Ci-dessus, le <em>Whole Foods Market</em>, est l'épicerie où j'achetais ma nourriture comme la délicieuse soupe aux poivrons rouges et tomates dont je raffolais.
+        </p>
+
+        <p>
+          Et maintenant, des photos prises sur le campus de UCLA.
+          On y voit le bureau que m'avait prêté Jim Ralston, le mathématicien Leonhard Euler, le Royce Hall et l'ours emblématique de l'université.
+        </p>
+
+        <sidebyside widths="45% 40%" margins="5%" valigns="middle middle">
+            <image source="westwood-jimsoffice.JPG"/>
+            <image source="westwood-euler.JPG"/>
+        </sidebyside>
+
+        <sidebyside widths="40% 45%" margins="5%" valigns="middle middle">
+            <image source="westwood-bruin.JPG"/>
+            <image source="westwood-roycehall.JPG"/>
+        </sidebyside>
 
       </section>
 

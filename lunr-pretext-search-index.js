@@ -196,7 +196,43 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Photos",
-  "body": " Photos  En arrivant à Westwood, j'ai acheté mon premier appareil photo numérique, un Canon PowerShot Elph. J'ai fait tellement de photos avec qu'il a fini par mourir en 2007, peu de temps après que j'ai rencontré maman.    Voici Alex et Anne-Marie, devant un restaurant mexicain de Westwood qui n'existe plus aujourd'hui. Ci-dessous, leur maison et leurs chiens de l'époque : Daisy le pitbull, Rocco et Kaiser les rottweilers jumeaux. Tous les matins, c'est moi qui les nourrissais. Et tous les soirs, je les promenais à tour de rôle autour du bloc. La photo des chiens a été prise juste avant le déjeuner qu'ils engloutissaient en moins de temps qu'il m'en fallait pour préparer leur nourriture.       La fenêtre de la chambre d'amis que j'occupais se trouve au premier étage, à droite. Le selfie qui suit a été fait à l'intérieur, devant le tableau qui décorait la chambre.      Ci-dessus, le Whole Foods Market , est l'épicerie où j'achetais ma nourriture comme la délicieuse soupe aux poivrons rouges et tomates dont je raffolais.  Et maintenant, des photos prises sur le campus de UCLA. On y voit le bureau que m'avait prêté Jim Ralston, le mathématicien Leonhard Euler, le Royce Hall et l'ours emblématique de l'université.          "
+  "body": " Photos  En arrivant à Westwood, j'ai acheté mon premier appareil photo numérique, un Canon PowerShot Elph. J'ai fait tellement de photos avec qu'il a fini par mourir en 2007, peu de temps après que j'ai rencontré maman.    Voici Alex et Anne-Marie, devant un restaurant mexicain de Westwood qui n'existe plus aujourd'hui. Ci-dessous, leur maison et leurs chiens de l'époque : Daisy le pitbull, Rocco et Kaiser les rottweilers jumeaux. Tous les matins, c'est moi qui les nourrissais. Et tous les soirs, je les promenais à tour de rôle autour du bloc. La photo des chiens a été prise juste avant le déjeuner qu'ils engloutissaient en moins de temps qu'il m'en fallait pour préparer leur nourriture.       La fenêtre de la chambre d'amis que j'occupais se trouve au premier étage, à droite. Le selfie qui suit a été fait à l'intérieur, devant le tableau qui décorait la chambre.      Ci-dessus, le Whole Foods Market est l'épicerie où j'achetais ma nourriture comme la soupe aux poivrons rouges et tomates dont je raffolais.  Et maintenant, des photos prises sur le campus de UCLA. On y voit le bureau que m'avait prêté Jim Ralston, le mathématicien Leonhard Euler, le Royce Hall et l'ours emblématique de l'université.          "
+},
+{
+  "id": "quiz-westwood",
+  "level": "1",
+  "url": "quiz-westwood.html",
+  "type": "Section",
+  "number": "1.5",
+  "title": "Quiz",
+  "body": " Quiz   Localisation de Westwood  À quelle ville appartient le quartier de Westwood?     San Francisco    Non, c'est plus au sud.      San Diego    Non, c'est plus au nord.      Los Angeles    Bravo!      Las Vegas    Non, c'est en Californie, pas au Nevada.      Vancouver    Non, c'est aux États-Unis, pas au Canada.       Localisation de Westwood (suite)  Près de quel océan se situe Westwood?     Océan Indien    Non, essaie encore.      Océan Pacifique    Bravo!      Océan des Tempêtes    Non, ça c'est sur la Lune.      Océan Atlantique    Non, c'est de l'autre côté des États-Unis.      Océan Arctique    Non, ça c'est au Pôle Nord.       Nom des équipes de UCLA  Quelle est la bonne façon d'encourager les équipes sportives de UCLA?     Let's go Bears! Let's go!    Non, essaie encore.      Let's go Dogs! Let's go!    Non, essaie encore.      Let's go Wildcats! Let's go!    Non, essaie encore.      Let's go Bruins! Let's go!    Bravo!      Let's go Dolphins! Let's go!    Non, essaie encore.     C'est pareil que pour l'équipe de hockey de Boston.    "
+},
+{
+  "id": "westwood-quiz-localisation",
+  "level": "2",
+  "url": "quiz-westwood.html#westwood-quiz-localisation",
+  "type": "Exercice",
+  "number": "1.5.1",
+  "title": "Localisation de Westwood.",
+  "body": "Localisation de Westwood  À quelle ville appartient le quartier de Westwood?     San Francisco    Non, c'est plus au sud.      San Diego    Non, c'est plus au nord.      Los Angeles    Bravo!      Las Vegas    Non, c'est en Californie, pas au Nevada.      Vancouver    Non, c'est aux États-Unis, pas au Canada.      "
+},
+{
+  "id": "westwood-quiz-localisation-2",
+  "level": "2",
+  "url": "quiz-westwood.html#westwood-quiz-localisation-2",
+  "type": "Exercice",
+  "number": "1.5.2",
+  "title": "Localisation de Westwood (suite).",
+  "body": "Localisation de Westwood (suite)  Près de quel océan se situe Westwood?     Océan Indien    Non, essaie encore.      Océan Pacifique    Bravo!      Océan des Tempêtes    Non, ça c'est sur la Lune.      Océan Atlantique    Non, c'est de l'autre côté des États-Unis.      Océan Arctique    Non, ça c'est au Pôle Nord.      "
+},
+{
+  "id": "westwood-quiz-bruins",
+  "level": "2",
+  "url": "quiz-westwood.html#westwood-quiz-bruins",
+  "type": "Exercice",
+  "number": "1.5.3",
+  "title": "Nom des équipes de UCLA.",
+  "body": "Nom des équipes de UCLA  Quelle est la bonne façon d'encourager les équipes sportives de UCLA?     Let's go Bears! Let's go!    Non, essaie encore.      Let's go Dogs! Let's go!    Non, essaie encore.      Let's go Wildcats! Let's go!    Non, essaie encore.      Let's go Bruins! Let's go!    Bravo!      Let's go Dolphins! Let's go!    Non, essaie encore.     C'est pareil que pour l'équipe de hockey de Boston.  "
 }
 ]
 

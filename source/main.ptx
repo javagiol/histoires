@@ -284,7 +284,7 @@
         </sidebyside>
 
         <p>
-          Ci-dessus, le <em>Whole Foods Market</em>, est l'épicerie où j'achetais ma nourriture comme la délicieuse soupe aux poivrons rouges et tomates dont je raffolais.
+          Ci-dessus, le <em>Whole Foods Market</em> est l'épicerie où j'achetais ma nourriture comme la soupe aux poivrons rouges et tomates dont je raffolais.
         </p>
 
         <p>
@@ -302,6 +302,172 @@
             <image source="westwood-roycehall.JPG"/>
         </sidebyside>
 
+      </section>
+
+
+      <section xml:id="quiz-westwood">
+        <title>Quiz</title>
+
+          <exercises>
+
+            <exercise label="westwood-quiz-localisation">
+                <title>Localisation de Westwood</title>
+                <statement>
+                    <p>À quelle ville appartient le quartier de Westwood?</p>
+                </statement>
+                <choices>
+                    <choice>
+                        <statement>
+                            <p>San Francisco</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, c'est plus au sud.</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p>San Diego</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, c'est plus au nord.</p>
+                        </feedback>
+                    </choice>
+                    <choice correct="yes">
+                        <statement>
+                            <p>Los Angeles</p>
+                        </statement>
+                        <feedback>
+                            <p>Bravo!</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p>Las Vegas</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, c'est en Californie, pas au Nevada.</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p>Vancouver</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, c'est aux États-Unis, pas au Canada.</p>
+                        </feedback>
+                    </choice>                    
+                </choices>
+                <hint>
+                    <p><xref ref="carte-westwood" /></p>
+                </hint>
+            </exercise>
+  
+            <exercise label="westwood-quiz-localisation-2">
+                <title>Localisation de Westwood (suite)</title>
+                <statement>
+                    <p>Près de quel océan se situe Westwood?</p>
+                </statement>
+                <choices>
+                    <choice>
+                        <statement>
+                            <p>Océan Indien</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, essaie encore.</p>
+                        </feedback>
+                    </choice>
+                    <choice correct="yes">
+                        <statement>
+                            <p>Océan Pacifique</p>
+                        </statement>
+                        <feedback>
+                            <p>Bravo!</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p>Océan des Tempêtes</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, ça c'est sur la Lune.</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p>Océan Atlantique</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, c'est de l'autre côté des États-Unis.</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p>Océan Arctique</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, ça c'est au Pôle Nord.</p>
+                        </feedback>
+                    </choice>                    
+                </choices>
+                <hint>
+                    <p><xref ref="carte-westwood" /></p>
+                </hint>
+            </exercise>
+
+            <exercise label="westwood-quiz-bruins">
+                <title>Nom des équipes de UCLA</title>
+                <statement>
+                    <p>Quelle est la bonne façon d'encourager les équipes sportives de UCLA?</p>
+                </statement>
+                <choices>
+                    <choice>
+                        <statement>
+                            <p><em>Let's go Bears! Let's go!</em></p>
+                        </statement>
+                        <feedback>
+                            <p>Non, essaie encore.</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p><em>Let's go Dogs! Let's go!</em></p>
+                        </statement>
+                        <feedback>
+                            <p>Non, essaie encore.</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p><em>Let's go Wildcats! Let's go!</em></p>
+                        </statement>
+                        <feedback>
+                            <p>Non, essaie encore.</p>
+                        </feedback>
+                    </choice>
+                    <choice correct="yes">
+                        <statement>
+                            <p><em>Let's go Bruins! Let's go!</em></p>
+                        </statement>
+                        <feedback>
+                            <p>Bravo!</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p><em>Let's go Dolphins! Let's go!</em></p>
+                        </statement>
+                        <feedback>
+                            <p>Non, essaie encore.</p>
+                        </feedback>
+                    </choice>                    
+                </choices>
+                <hint>
+                    <p>C'est pareil que pour l'équipe de hockey de Boston.</p>
+                </hint>
+            </exercise>
+
+          </exercises>
+      
       </section>
 
     </chapter>

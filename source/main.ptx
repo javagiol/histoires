@@ -466,6 +466,110 @@
                 </hint>
             </exercise>
 
+            <exercise label="westwood-alex-annemarie">
+                <title>Mes hôtes à Westwood</title>
+                <statement>
+                    <p>Comment s'appellent les gens chez qui j'habitais à Westwood?</p>
+                </statement>
+                <choices>
+                    <choice>
+                        <statement>
+                            <p>Alex et Sophie</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, essaie encore.</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p>Alain et Anne-Marie</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, essaie encore.</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p>Alain et Sophie</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, essaie encore.</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p>Arthur et Sidonie</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, essaie encore.</p>
+                        </feedback>
+                    </choice>
+                    <choice correct="yes">
+                        <statement>
+                            <p>Alex et Anne-Marie</p>
+                        </statement>
+                        <feedback>
+                            <p>Bravo!</p>
+                        </feedback>
+                    </choice>                  
+                </choices>
+                <hint>
+                    <p>Leurs deux prénoms commencent par a.</p>
+                </hint>
+            </exercise>
+
+           <exercise label="westwood-marilyn">
+                <title>Marilyn</title>
+                <statement>
+                    <p>En quelle année Marilyn Monroe est-elle née?</p>
+                </statement>
+                <choices>
+                    <choice>
+                        <statement>
+                            <p>1925</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, c'est plus.</p>
+                        </feedback>
+                    </choice>
+                    <choice correct="yes">
+                        <statement>
+                            <p>1926</p>
+                        </statement>
+                        <feedback>
+                            <p>Bravo!</p>
+                        </feedback>
+                    </choice>   
+                    <choice>
+                        <statement>
+                            <p>1927</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, c'est moins.</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p>1928</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, c'est moins.</p>
+                        </feedback>
+                    </choice>
+                    <choice>
+                        <statement>
+                            <p>1929</p>
+                        </statement>
+                        <feedback>
+                            <p>Non, c'est moins.</p>
+                        </feedback>
+                    </choice>               
+                </choices>
+                <hint>
+                    <p>C'est un nombre pair compris entre 1920 et 1930.</p>
+                </hint>
+            </exercise>
+
           </exercises>
       
       </section>

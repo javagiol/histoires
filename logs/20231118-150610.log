@@ -10,3 +10,6 @@ INFO    :   personal computer.)
 INFO    : 
 INFO    : Server will soon be available at https://jubilant-couscous-vrjp5qjxj7v2px7j-8128.app.github.dev
 INFO    : Opening browser for target `web` at https://jubilant-couscous-vrjp5qjxj7v2px7j-8128.app.github.dev/output/web in 3 seconds
+WARNING : Port 8128 could not be used.
+WARNING : Trying port 8129 instead.
+

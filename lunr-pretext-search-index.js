@@ -10,9 +10,9 @@ var ptx_lunr_docs = [
   "body": "   Julien Giol       "
 },
 {
-  "id": "localisation",
+  "id": "localisation-westwood",
   "level": "1",
-  "url": "localisation.html",
+  "url": "localisation-westwood.html",
   "type": "Section",
   "number": "1.1",
   "title": "Localisation",
@@ -21,34 +21,34 @@ var ptx_lunr_docs = [
 {
   "id": "carte-californie",
   "level": "2",
-  "url": "localisation.html#carte-californie",
+  "url": "localisation-westwood.html#carte-californie",
   "type": "Figure",
   "number": "1.1.1",
   "title": "",
   "body": " La Californie.   "
 },
 {
-  "id": "localisation-4",
+  "id": "localisation-westwood-4",
   "level": "2",
-  "url": "localisation.html#localisation-4",
+  "url": "localisation-westwood.html#localisation-westwood-4",
   "type": "Question",
   "number": "1.1.2",
   "title": "",
   "body": "  Comment s'appelle l'océan qui borde la Californie?    L'Océan Pacifique.   "
 },
 {
-  "id": "localisation-6",
+  "id": "localisation-westwood-6",
   "level": "2",
-  "url": "localisation.html#localisation-6",
+  "url": "localisation-westwood.html#localisation-westwood-6",
   "type": "Question",
   "number": "1.1.3",
   "title": "",
   "body": "  Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento à Los Angeles?    L'Interstate 5.  Interstate 5 , c'est aussi le titre d'une chanson d'un de mes groupes préférés : The Wedding Present.   Interstate 5 par The Wedding Present.     "
 },
 {
-  "id": "localisation-8",
+  "id": "localisation-westwood-8",
   "level": "2",
-  "url": "localisation.html#localisation-8",
+  "url": "localisation-westwood.html#localisation-westwood-8",
   "type": "Question",
   "number": "1.1.5",
   "title": "",
@@ -57,16 +57,16 @@ var ptx_lunr_docs = [
 {
   "id": "carte-westwood",
   "level": "2",
-  "url": "localisation.html#carte-westwood",
+  "url": "localisation-westwood.html#carte-westwood",
   "type": "Figure",
   "number": "1.1.6",
   "title": "",
   "body": " Westwood, quartier de Los Angeles.   "
 },
 {
-  "id": "localisation-11",
+  "id": "localisation-westwood-11",
   "level": "2",
-  "url": "localisation.html#localisation-11",
+  "url": "localisation-westwood.html#localisation-westwood-11",
   "type": "Question",
   "number": "1.1.7",
   "title": "",
@@ -75,16 +75,16 @@ var ptx_lunr_docs = [
 {
   "id": "carte-levering",
   "level": "2",
-  "url": "localisation.html#carte-levering",
+  "url": "localisation-westwood.html#carte-levering",
   "type": "Figure",
   "number": "1.1.8",
   "title": "",
   "body": " 461 Levering Avenue.   "
 },
 {
-  "id": "localisation-14",
+  "id": "localisation-westwood-14",
   "level": "2",
-  "url": "localisation.html#localisation-14",
+  "url": "localisation-westwood.html#localisation-westwood-14",
   "type": "Question",
   "number": "1.1.9",
   "title": "",
@@ -251,6 +251,78 @@ var ptx_lunr_docs = [
   "number": "1.5.5",
   "title": "Marilyn.",
   "body": "Marilyn  En quelle année Marilyn Monroe est-elle née?     1925    Non, c'est plus.      1926    Bravo!      1927    Non, c'est moins.      1928    Non, c'est moins.      1929    Non, c'est moins.     C'est un nombre pair compris entre 1920 et 1930.  "
+},
+{
+  "id": "localisation-rawdon",
+  "level": "1",
+  "url": "localisation-rawdon.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Localisation",
+  "body": " Localisation  Rawdon est la ville située au nord de Sainte-Julienne. J'aime beaucoup y aller, pour toutes sortes de raisons.   Rawdon.      Quel est le numéro de la route qui longe le lac Pontbriand?    341.      Comment s'appelle l'épicerie où j'achète la nourriture?    Maxi.   Au Maxi de Rawdon.        Comment s'appelle le lac sur lequel vous avez patiné ce jour-là?   Sortie patinage à Rawdon.      Lac Rawdon.    "
+},
+{
+  "id": "carte-rawdon",
+  "level": "2",
+  "url": "localisation-rawdon.html#carte-rawdon",
+  "type": "Figure",
+  "number": "2.1.1",
+  "title": "",
+  "body": " Rawdon.   "
+},
+{
+  "id": "localisation-rawdon-4",
+  "level": "2",
+  "url": "localisation-rawdon.html#localisation-rawdon-4",
+  "type": "Question",
+  "number": "2.1.2",
+  "title": "",
+  "body": "  Quel est le numéro de la route qui longe le lac Pontbriand?    341.   "
+},
+{
+  "id": "localisation-rawdon-5",
+  "level": "2",
+  "url": "localisation-rawdon.html#localisation-rawdon-5",
+  "type": "Question",
+  "number": "2.1.3",
+  "title": "",
+  "body": "  Comment s'appelle l'épicerie où j'achète la nourriture?    Maxi.   Au Maxi de Rawdon.     "
+},
+{
+  "id": "localisation-rawdon-6",
+  "level": "2",
+  "url": "localisation-rawdon.html#localisation-rawdon-6",
+  "type": "Question",
+  "number": "2.1.5",
+  "title": "",
+  "body": "  Comment s'appelle le lac sur lequel vous avez patiné ce jour-là?   Sortie patinage à Rawdon.      Lac Rawdon.   "
+},
+{
+  "id": "parc-nichol",
+  "level": "1",
+  "url": "parc-nichol.html",
+  "type": "Section",
+  "number": "2.2",
+  "title": "Parc Nichol",
+  "body": " Parc Nichol  Quand vous étiez petits, vous aimiez beaucoup aller au Parc Nichol. On l'appelait le parc de la baleine .              "
+},
+{
+  "id": "chutes-dorwin",
+  "level": "1",
+  "url": "chutes-dorwin.html",
+  "type": "Section",
+  "number": "2.3",
+  "title": "Parc des Chutes Dorwin",
+  "body": " Parc des Chutes Dorwin  "
+},
+{
+  "id": "ski-montcalm",
+  "level": "1",
+  "url": "ski-montcalm.html",
+  "type": "Section",
+  "number": "2.4",
+  "title": "Ski Montcalm",
+  "body": " Ski Montcalm  "
 }
 ]
 

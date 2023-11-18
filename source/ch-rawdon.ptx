@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="rawdon" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Rawdon</title>
+
+  <section xml:id="localisation-rawdon">
+    <title>Localisation</title>
+    
+    <p>
+      Rawdon est la ville située au nord de Sainte-Julienne.
+      J'aime beaucoup y aller, pour toutes sortes de raisons.
+    </p>
+    
+    <figure xml:id="carte-rawdon">
+      <caption>Rawdon.</caption>
+      <interactive
+        xml:id="interactive-carte-rawdon"
+        iframe="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d88591.20353706715!2d-73.82848377450775!3d46.061566911918604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc8b71cf6c9ad03%3A0x92f01cf4b70c057c!2sRawdon%2C%20Matawinie%2C%20QC%20J0K%201S0!5e0!3m2!1sfr!2sca!4v1700321302851!5m2!1sfr!2sca"
+        width="95%"
+        aspect="15:10"/>
+    </figure>
+
+    <question>
+      <statement>
+        <p>Quel est le numéro de la route qui longe le lac Pontbriand?</p>
+      </statement>
+      <answer>
+        <p>341.</p>
+      </answer>
+    </question>
+
+    <question>
+      <statement>
+        <p>Comment s'appelle l'épicerie où j'achète la nourriture?</p>
+      </statement>
+      <answer>
+        <p>Maxi.</p>
+        <figure>
+        <caption>Au Maxi de Rawdon.</caption>
+        <image source="rawdon-maxi.JPG" width="70%"/>
+        </figure>
+      </answer>
+    </question>
+
+    <question>
+      <statement>
+        <p>Comment s'appelle le lac sur lequel vous avez patiné ce jour-là?</p>
+        <figure>
+          <caption>Sortie patinage à Rawdon.</caption>
+          <image source="rawdon-patinage.JPG" width="70%"/>
+        </figure>
+      </statement>
+      <answer>
+        <p>Lac Rawdon.</p>
+      </answer>
+    </question>
+
+  </section>
+
+  <section xml:id="parc-nichol">
+    <title>Parc Nichol</title>
+
+    <p>
+      Quand vous étiez petits, vous aimiez beaucoup aller au Parc Nichol.
+      On l'appelait le <em>parc de la baleine</em>.
+    </p>
+    
+  </section>
+
+  <section xml:id="chutes-dorwin">
+    <title>Parc des Chutes Dorwin</title>
+    
+  </section> 
+
+  <section xml:id="ski-montcalm">
+    <title>Ski Montcalm</title>
+    
+  </section>  
+
+</chapter>

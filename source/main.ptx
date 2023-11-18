@@ -26,7 +26,8 @@
 
     </frontmatter>
 
-    <xi:include href="./ch-westwood.ptx" /> 
+    <xi:include href="./ch-westwood.ptx" />
+    <xi:include href="./ch-rawdon.ptx" />
 
   </book>
   

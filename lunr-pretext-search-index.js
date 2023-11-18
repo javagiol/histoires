@@ -28,27 +28,27 @@ var ptx_lunr_docs = [
   "body": " La Californie.   "
 },
 {
-  "id": "question-1",
+  "id": "localisation-4",
   "level": "2",
-  "url": "localisation.html#question-1",
+  "url": "localisation.html#localisation-4",
   "type": "Question",
   "number": "1.1.2",
   "title": "",
   "body": "  Comment s'appelle l'océan qui borde la Californie?    L'Océan Pacifique.   "
 },
 {
-  "id": "question-2",
+  "id": "localisation-6",
   "level": "2",
-  "url": "localisation.html#question-2",
+  "url": "localisation.html#localisation-6",
   "type": "Question",
   "number": "1.1.3",
   "title": "",
   "body": "  Quel est le numéro de l'autoroute inter-États qui relie notamment Sacramento à Los Angeles?    L'Interstate 5.  Interstate 5 , c'est aussi le titre d'une chanson d'un de mes groupes préférés : The Wedding Present.   Interstate 5 par The Wedding Present.     "
 },
 {
-  "id": "question-3",
+  "id": "localisation-8",
   "level": "2",
-  "url": "localisation.html#question-3",
+  "url": "localisation.html#localisation-8",
   "type": "Question",
   "number": "1.1.5",
   "title": "",
@@ -64,9 +64,9 @@ var ptx_lunr_docs = [
   "body": " Westwood, quartier de Los Angeles.   "
 },
 {
-  "id": "question-4",
+  "id": "localisation-11",
   "level": "2",
-  "url": "localisation.html#question-4",
+  "url": "localisation.html#localisation-11",
   "type": "Question",
   "number": "1.1.7",
   "title": "",
@@ -82,9 +82,9 @@ var ptx_lunr_docs = [
   "body": " 461 Levering Avenue.   "
 },
 {
-  "id": "question-5",
+  "id": "localisation-14",
   "level": "2",
-  "url": "localisation.html#question-5",
+  "url": "localisation.html#localisation-14",
   "type": "Question",
   "number": "1.1.9",
   "title": "",
@@ -100,36 +100,36 @@ var ptx_lunr_docs = [
   "body": " UCLA  Pendant mon année passée à Los Angeles, j'étais postdoc à UCLA sous la direction du mathématicien Sorin Popa.  UCLA, c'est l'Université de Californie à Los Angeles. Son campus est magnifique et se trouve en plein coeur de Westwood.   UCLA vue du ciel.      Peux-tu trouver le département de mathématiques sur la carte suivante?   UCLA.     Il se trouve entre le UCLA Store et la Court of Sciences .   À UCLA, on ne fait pas qu'étudier, on fait aussi du sport. Les équipes sportives portent toutes le même nom : les Bruins . Un des axes principaux du campus s'appelle d'ailleurs la Bruin Walk . On y trouve la statue emblématique de UCLA qui représente un ours brun, en plein coeur du campus.    Peux-tu trouver la statue de l'ours brun sur la carte suivante?   UCLA.     Il se trouve tout près du UCLA Store .   UCLA est une université prestigieuse à laquelle sont associés un bon nombre de prix Nobel comme professeurs ou comme anciens étudiants, notamment en chimie.  Côté mathématiques, on y trouve une médaille Fields : il s'agit de Terence Tao, qu'on considère parfois comme le Mozart des maths. Grâce à sa présence et à celle de nombreux autres individus très brillants, le département de mathématiques de UCLA est aujourd'hui considéré comme un des meilleurs du monde.  Pendant mon séjour là-bas, j'ai eu la chance d'y fréquenter des experts mondiaux des algèbres d'opérateurs tels que Sorin Popa, Ed Effros, Dima Shlyakhtenko, Taka Ozawa, Adrian Ioana et Jesse Peterson. J'en garde un souvenir très inspirant.   Jesse, Sorin et Ed chez Dima.    "
 },
 {
-  "id": "figure-5",
+  "id": "ucla-4",
   "level": "2",
-  "url": "ucla.html#figure-5",
+  "url": "ucla.html#ucla-4",
   "type": "Figure",
   "number": "1.2.1",
   "title": "",
   "body": " UCLA vue du ciel.   "
 },
 {
-  "id": "question-6",
+  "id": "ucla-5",
   "level": "2",
-  "url": "ucla.html#question-6",
+  "url": "ucla.html#ucla-5",
   "type": "Question",
   "number": "1.2.2",
   "title": "",
   "body": "  Peux-tu trouver le département de mathématiques sur la carte suivante?   UCLA.     Il se trouve entre le UCLA Store et la Court of Sciences .  "
 },
 {
-  "id": "question-7",
+  "id": "ucla-7",
   "level": "2",
-  "url": "ucla.html#question-7",
+  "url": "ucla.html#ucla-7",
   "type": "Question",
   "number": "1.2.4",
   "title": "",
   "body": "  Peux-tu trouver la statue de l'ours brun sur la carte suivante?   UCLA.     Il se trouve tout près du UCLA Store .  "
 },
 {
-  "id": "figure-8",
+  "id": "ucla-11",
   "level": "2",
-  "url": "ucla.html#figure-8",
+  "url": "ucla.html#ucla-11",
   "type": "Figure",
   "number": "1.2.6",
   "title": "",
@@ -145,27 +145,27 @@ var ptx_lunr_docs = [
   "body": " Marilyn Monroe  Marilyn Monroe est une figure emblématique de l'histoire du cinéma et de la culture américaine.  Voici des extraits de films dans lesquels elle a joué.   Extraits de films avec Marilyn Monroe.    Elle était aussi chanteuse. La voici qui chante I wanna be loved by you dans le film Some Like It Hot (1959) de Billy Wilder.   Poupoupidou.    On raconte qu'elle eut une relation amoureuse avec le président américain John Fitzgerald Kennedy. Le 19 mai 1962, c'est elle qui monte sur scène au Madison Square Garden de New York pour lui souhaiter un bon anniversaire en chanson.   Happy Birthday, Mr. President.    Marilyn Monroe est née à Los Angeles en 1926, et morte dans la même ville en 1962. Sa tombe est à Westwood, à quelques mètres du bureau d'Alex qui se trouve au 10866 sur le Boulevard Wilshire. Nonno, qui est un ami d'Alex, a travaillé dans ce bureau au début des années 90.   Le 10866 Boulevard Wilshire à Westwood.      Peux-tu trouver la tombe de Marilyn Monroe sur la carte ci-dessus?    Cherche Marilyn Monroe's Crypt à l'est du point rouge.    "
 },
 {
-  "id": "figure-9",
+  "id": "marilyn-4",
   "level": "2",
-  "url": "marilyn.html#figure-9",
+  "url": "marilyn.html#marilyn-4",
   "type": "Figure",
   "number": "1.3.1",
   "title": "",
   "body": " Extraits de films avec Marilyn Monroe.   "
 },
 {
-  "id": "figure-10",
+  "id": "marilyn-6",
   "level": "2",
-  "url": "marilyn.html#figure-10",
+  "url": "marilyn.html#marilyn-6",
   "type": "Figure",
   "number": "1.3.2",
   "title": "",
   "body": " Poupoupidou.   "
 },
 {
-  "id": "figure-11",
+  "id": "marilyn-8",
   "level": "2",
-  "url": "marilyn.html#figure-11",
+  "url": "marilyn.html#marilyn-8",
   "type": "Figure",
   "number": "1.3.3",
   "title": "",
@@ -181,9 +181,9 @@ var ptx_lunr_docs = [
   "body": " Le 10866 Boulevard Wilshire à Westwood.   "
 },
 {
-  "id": "question-8",
+  "id": "marilyn-11",
   "level": "2",
-  "url": "marilyn.html#question-8",
+  "url": "marilyn.html#marilyn-11",
   "type": "Question",
   "number": "1.3.5",
   "title": "",
@@ -258,6 +258,7 @@ var ptx_lunr_idx = lunr(function () {
   this.ref('id')
   this.field('title')
   this.field('body')
+  this.metadataWhitelist = ['position']
 
   ptx_lunr_docs.forEach(function (doc) {
     this.add(doc)

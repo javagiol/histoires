@@ -304,7 +304,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Parc Nichol",
-  "body": " Parc Nichol  Quand vous étiez petits, vous aimiez beaucoup aller au Parc Nichol. On l'appelait le parc de la baleine .              "
+  "body": " Parc Nichol  Quand vous étiez petits, vous aimiez beaucoup aller au Parc Nichol. On l'appelait le parc de la baleine .              Le Parc Nichol longe la Avenue, à côté de la plage municipale de Rawdon.   Parc Nichol.      Où se trouve le golf de Rawdon par rapport au Parc Nichol? Au Nord-Est ou au Sud-Ouest?    Au Nord-Est.    "
+},
+{
+  "id": "carte-nichol",
+  "level": "2",
+  "url": "parc-nichol.html#carte-nichol",
+  "type": "Figure",
+  "number": "2.2.1",
+  "title": "",
+  "body": " Parc Nichol.   "
+},
+{
+  "id": "parc-nichol-8",
+  "level": "2",
+  "url": "parc-nichol.html#parc-nichol-8",
+  "type": "Question",
+  "number": "2.2.2",
+  "title": "",
+  "body": "  Où se trouve le golf de Rawdon par rapport au Parc Nichol? Au Nord-Est ou au Sud-Ouest?    Au Nord-Est.   "
 },
 {
   "id": "chutes-dorwin",
@@ -313,7 +331,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.3",
   "title": "Parc des Chutes Dorwin",
-  "body": " Parc des Chutes Dorwin  "
+  "body": " Parc des Chutes Dorwin  L'endroit le plus connu de Rawdon est probablement le Parc des Chutes Dorwin. On y trouve des sentiers boisés et des belvédères offrant plusieurs points de vue sur les fameuses chutes.                    Quel est le nom de la rivière au bord de laquelle se situe le Parc des Chutes Dorwin?    Est-ce que c'est Chertsey, Assomption, Ouareau ou Saint-Laurent?    Ouareau.      Quel est le numéro de la route qui longe le Parc des Chutes Dorwin?     Parc des Chutes Dorwin.      337.    "
+},
+{
+  "id": "chutes-dorwin-7",
+  "level": "2",
+  "url": "chutes-dorwin.html#chutes-dorwin-7",
+  "type": "Question",
+  "number": "2.3.1",
+  "title": "",
+  "body": "  Quel est le nom de la rivière au bord de laquelle se situe le Parc des Chutes Dorwin?    Est-ce que c'est Chertsey, Assomption, Ouareau ou Saint-Laurent?    Ouareau.   "
+},
+{
+  "id": "chutes-dorwin-8",
+  "level": "2",
+  "url": "chutes-dorwin.html#chutes-dorwin-8",
+  "type": "Question",
+  "number": "2.3.2",
+  "title": "",
+  "body": "  Quel est le numéro de la route qui longe le Parc des Chutes Dorwin?     Parc des Chutes Dorwin.      337.   "
 },
 {
   "id": "ski-montcalm",

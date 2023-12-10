@@ -78,12 +78,91 @@
     <sidebyside widths="45% 45%" margins="2%" valigns="middle middle">
       <image source="rawdon-nichol-3.JPG"/>
       <image source="rawdon-nichol-6.JPG"/>
-    </sidebyside> 
+    </sidebyside>
+
+    <p>Le Parc Nichol longe la <m>8^{\text{e}}</m> Avenue, à côté de la plage municipale de Rawdon.</p>
+
+    <figure xml:id="carte-nichol">
+      <caption>Parc Nichol.</caption>
+      <interactive
+        xml:id="interactive-carte-nichol"
+        iframe="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2769.035375299911!2d-73.71017216032656!3d46.050392636419076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc8b150dd53de65%3A0x7e93edbd7ef49b7b!2sParc%20Nichol!5e0!3m2!1sfr!2sca!4v1702219609763!5m2!1sfr!2sca"
+        width="95%"
+        aspect="15:10"/>
+    </figure>
+
+    <question>
+      <statement>
+        <p>
+          Où se trouve le golf de Rawdon par rapport au Parc Nichol?
+          Au Nord-Est ou au Sud-Ouest?
+        </p>
+      </statement>
+      <answer>
+        <p>Au Nord-Est.</p>
+      </answer>
+    </question>
 
   </section>
 
   <section xml:id="chutes-dorwin">
     <title>Parc des Chutes Dorwin</title>
+
+    <p>
+      L'endroit le plus connu de Rawdon est probablement le Parc des Chutes Dorwin.
+      On y trouve des sentiers boisés et des belvédères offrant plusieurs points de vue sur les fameuses chutes.
+    </p>
+
+    <sidebyside widths="45% 45%" margins="2%" valigns="middle middle">
+      <image source="rawdon-dorwin-1.JPG"/>
+      <image source="rawdon-dorwin-2.JPG"/>
+    </sidebyside>
+
+    <sidebyside widths="45% 45%" margins="2%" valigns="middle middle">
+      <image source="rawdon-dorwin-3.JPG"/>
+      <image source="rawdon-dorwin-4.JPG"/>
+    </sidebyside>
+
+    <sidebyside widths="45% 45%" margins="2%" valigns="middle middle">
+      <image source="rawdon-dorwin-5.JPG"/>
+      <image source="rawdon-dorwin-6.JPG"/>
+    </sidebyside>
+
+    <sidebyside widths="45% 45%" margins="2%" valigns="middle middle">
+      <image source="rawdon-dorwin-7.JPG"/>
+      <image source="rawdon-dorwin-8.JPG"/>
+    </sidebyside>
+
+    <question>
+      <statement>
+        <p>Quel est le nom de la rivière au bord de laquelle se situe le Parc des Chutes Dorwin?</p>
+      </statement>
+      <hint>
+        <p>Est-ce que c'est Chertsey, Assomption, Ouareau ou Saint-Laurent?</p>
+      </hint>
+      <answer>
+        <p>Ouareau.</p>
+      </answer>
+    </question>
+
+    <question>
+      <statement>
+        <p>Quel est le numéro de la route qui longe le Parc des Chutes Dorwin?</p>
+      </statement>
+      <hint>
+        <figure xml:id="carte-dorwin">
+          <caption>Parc des Chutes Dorwin.</caption>
+          <interactive
+            xml:id="interactive-carte-dorwin"
+            iframe="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2769.9078985380334!2d-73.70669172381498!3d46.03298629530925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc8b6b718b1d54b%3A0xb970b91788792e4!2sParc%20des%20Chutes%20Dorwin!5e0!3m2!1sfr!2sca!4v1702222237778!5m2!1sfr!2sca"
+            width="95%"
+            aspect="15:10"/>
+        </figure>
+      </hint>
+      <answer>
+        <p>337.</p>
+      </answer>
+    </question>
     
   </section> 
 

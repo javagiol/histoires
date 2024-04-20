@@ -170,12 +170,18 @@
     <title>Ski Montcalm</title>
 
     <p>Un endroit formidable à Rawdon, c'est Ski Montcalm.</p>
+
+    <p>C'est une station de ski familiale idéale pour apprendre, notamment grâce à son versant d'apprentissage.</p>
     
     <sidebyside widths="45% 45%" margins="2%" valigns="middle middle">
       <image source="rawdon-ski-1.JPG"/>
       <image source="rawdon-ski-2.JPG"/>
-    </sidebyside>    
+    </sidebyside>
 
+    <sidebyside widths="45% 45%" margins="2%" valigns="middle middle">
+      <image source="rawdon-ski-3.JPG"/>
+      <image source="rawdon-ski-4.JPG"/>
+    </sidebyside>
 
   </section>  
 

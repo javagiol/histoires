@@ -197,6 +197,42 @@
       <image source="rawdon-ski-6.JPG" width="70%"/>
     </figure>
 
+    <question>
+      <statement>
+        <p>Vrai ou faux? On peut y faire du vélo de montagne l'automne, et même de la randonnée.</p>
+      </statement>
+      <answer>
+        <p>Vrai.</p>
+      </answer>
+    </question>
+
+    <question>
+      <statement>
+        <p>Quel est le nom du fondateur de Ski Montcalm?</p>
+      </statement>
+      <hint>
+        <p>Cherche sur le site de Ski Montcalm ou sur Wikipédia.</p>
+      </hint>
+      <answer>
+        <p>Tadek Barnowski.</p>
+      </answer>
+    </question>
+
+  <p>Voici la carte des pistes de ski.</p>
+
+  <figure>
+    <caption>Pistes de ski à Ski Montcalm.</caption>
+    <image source="rawdon-ski-7.JPG" width="70%"/>
+  </figure>
+
+  <question>
+    <statement>
+      <p>Combien y a-t-il de pistes de ski?</p>
+    </statement>
+    <answer>
+      <p>26.</p>
+    </answer>
+  </question>
 
   </section>  
 

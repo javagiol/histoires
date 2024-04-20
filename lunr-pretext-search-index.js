@@ -358,7 +358,61 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.4",
   "title": "Ski Montcalm",
-  "body": " Ski Montcalm  "
+  "body": " Ski Montcalm  Un endroit formidable à Rawdon, c'est Ski Montcalm.  C'est une station de ski familiale idéale pour apprendre, notamment grâce à son versant d'apprentissage.          On aime bien y manger des pogos.   Pogos et Covid.    Il fut même un temps où on pouvait y glisser sur des tubes.   Glissades sur tubes.      Vrai ou faux? On peut y faire du vélo de montagne l'automne, et même de la randonnée.    Vrai.      Quel est le nom du fondateur de Ski Montcalm?    Cherche sur le site de Ski Montcalm ou sur Wikipédia.    Tadek Barnowski.    Voici la carte des pistes de ski.   Pistes de ski à Ski Montcalm.      Combien y a-t-il de pistes de ski?    26.    "
+},
+{
+  "id": "ski-montcalm-7",
+  "level": "2",
+  "url": "ski-montcalm.html#ski-montcalm-7",
+  "type": "Figure",
+  "number": "2.4.1",
+  "title": "",
+  "body": " Pogos et Covid.   "
+},
+{
+  "id": "ski-montcalm-9",
+  "level": "2",
+  "url": "ski-montcalm.html#ski-montcalm-9",
+  "type": "Figure",
+  "number": "2.4.2",
+  "title": "",
+  "body": " Glissades sur tubes.   "
+},
+{
+  "id": "ski-montcalm-10",
+  "level": "2",
+  "url": "ski-montcalm.html#ski-montcalm-10",
+  "type": "Question",
+  "number": "2.4.3",
+  "title": "",
+  "body": "  Vrai ou faux? On peut y faire du vélo de montagne l'automne, et même de la randonnée.    Vrai.   "
+},
+{
+  "id": "ski-montcalm-11",
+  "level": "2",
+  "url": "ski-montcalm.html#ski-montcalm-11",
+  "type": "Question",
+  "number": "2.4.4",
+  "title": "",
+  "body": "  Quel est le nom du fondateur de Ski Montcalm?    Cherche sur le site de Ski Montcalm ou sur Wikipédia.    Tadek Barnowski.   "
+},
+{
+  "id": "ski-montcalm-13",
+  "level": "2",
+  "url": "ski-montcalm.html#ski-montcalm-13",
+  "type": "Figure",
+  "number": "2.4.5",
+  "title": "",
+  "body": " Pistes de ski à Ski Montcalm.   "
+},
+{
+  "id": "ski-montcalm-14",
+  "level": "2",
+  "url": "ski-montcalm.html#ski-montcalm-14",
+  "type": "Question",
+  "number": "2.4.6",
+  "title": "",
+  "body": "  Combien y a-t-il de pistes de ski?    26.   "
 }
 ]
 

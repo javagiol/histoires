@@ -168,7 +168,15 @@
 
   <section xml:id="ski-montcalm">
     <title>Ski Montcalm</title>
+
+    <p>Un endroit formidable à Rawdon, c'est Ski Montcalm.</p>
     
+    <sidebyside widths="45% 45%" margins="2%" valigns="middle middle">
+      <image source="rawdon-ski-1.JPG"/>
+      <image source="rawdon-ski-2.JPG"/>
+    </sidebyside>    
+
+
   </section>  
 
 </chapter>

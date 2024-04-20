@@ -1,0 +1,21 @@
+INFO    : PreTeXt-CLI version: 2.3.10
+
+INFO    : PreTeXt project found in `/workspaces/histoires`.
+WARNING : Using CLI version 2.3.10 but project's `requirements.txt`
+WARNING : is configured to use 2.3.0. Consider either installing
+WARNING : CLI version 2.3.0 or running `pretext init --refresh`
+WARNING : to update `requirements.txt` to match 2.3.10.
+INFO    : Preparing to build into /workspaces/histoires/output/web.
+INFO    : discovering source file's directory name: /workspaces/histoires/source
+INFO    : verifying and expanding input directory: /workspaces/histoires/source/../generated-assets
+INFO    : input directory expanded to absolute path: /workspaces/histoires/generated-assets
+INFO    : verifying and expanding input directory: /workspaces/histoires/source/../assets
+INFO    : input directory expanded to absolute path: /workspaces/histoires/assets
+INFO    : Runestone Services (via PreTeXt repository): version 7.2.9
+INFO    : Runestone Services (using newer, via online CDN query): version 7.2.15
+INFO    : converting /workspaces/histoires/source/main.ptx to HTML in /tmp/ptx-xghi9lxu
+INFO    : XSL conversion of /workspaces/histoires/source/main.ptx by /home/vscode/.ptx/xsl/pretext-html.xsl
+INFO    : successful application of /home/vscode/.ptx/xsl/pretext-html.xsl
+INFO    : 
+Success! Run `pretext view` to see the results.
+

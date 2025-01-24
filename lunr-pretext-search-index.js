@@ -412,7 +412,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.1",
   "title": "The Cure",
-  "body": " The Cure  The Cure est un groupe de rock anglais qui a été créé à Crawley en 1976 par Robert Smith et Lol Tolhurst.  C'était mon groupe préféré quand j'étais adolescent.  Voici une de leurs chansons les plus connues.  The Cure - Just Like Heaven.     Remarquez le style particulier du chanteur Robert Smith. Il l'a depuis très longtemps. C'est le look gothique.  Le bassiste Simon Gallup a un rôle très important. Écoutez cette ligne de basse mémorable.  The Cure - A Forest.     "
+  "body": " The Cure  The Cure est un groupe de rock anglais qui a été créé à Crawley en 1976 par Robert Smith et Lol Tolhurst.  C'était mon groupe préféré quand j'étais adolescent.  Voici une de leurs chansons les plus connues.  The Cure - Just Like Heaven.     Remarquez le style particulier du chanteur Robert Smith. Il l'a depuis très longtemps. C'est le look gothique.  Le bassiste Simon Gallup a un rôle très important. Écoutez cette ligne de basse mémorable.  The Cure - A Forest.     Le dernier album que j'ai adoré, c'était Wish en 1992. En voici mon morceau préféré.  The Cure - From The Edge Of The Deep Green Sea.     "
 },
 {
   "id": "the-cure-4-1",
@@ -431,6 +431,15 @@ var ptx_lunr_docs = [
   "number": "3.1.2",
   "title": "",
   "body": " The Cure - A Forest.   "
+},
+{
+  "id": "the-cure-7-1",
+  "level": "2",
+  "url": "the-cure.html#the-cure-7-1",
+  "type": "Figure",
+  "number": "3.1.3",
+  "title": "",
+  "body": " The Cure - From The Edge Of The Deep Green Sea.   "
 }
 ]
 

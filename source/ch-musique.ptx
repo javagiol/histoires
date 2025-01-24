@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="musique" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Musique</title>
+
+  <section xml:id="the-cure">
+    <title>The Cure</title>
+    
+    <p>The Cure est un groupe anglais qui a été créé à Crawley en 1976 par Robert Smith et Lol Tolhurst.</p>
+  </section>
+
+</chapter>

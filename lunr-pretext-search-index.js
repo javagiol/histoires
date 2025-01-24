@@ -412,7 +412,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.1",
   "title": "The Cure",
-  "body": " The Cure  The Cure est un groupe anglais.  "
+  "body": " The Cure  The Cure est un groupe anglais qui a été créé à Crawley en 1976 par Robert Smith et Lol Tolhurst.  C'était mon groupe préféré quand j'étais adolescent.  Voici une de leurs chansons les plus connues.  The Cure - Just Like Heaven.     "
+},
+{
+  "id": "the-cure-4-1",
+  "level": "2",
+  "url": "the-cure.html#the-cure-4-1",
+  "type": "Figure",
+  "number": "3.1.1",
+  "title": "",
+  "body": " The Cure - Just Like Heaven.   "
 }
 ]
 

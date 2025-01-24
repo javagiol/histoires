@@ -1,15 +1,6 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "frontmatter",
-  "level": "1",
-  "url": "frontmatter.html",
-  "type": "Pages Liminaires",
-  "number": "",
-  "title": "Pages Liminaires",
-  "body": "   Julien Giol       "
-},
-{
   "id": "localisation-westwood",
   "level": "1",
   "url": "localisation-westwood.html",
@@ -413,6 +404,15 @@ var ptx_lunr_docs = [
   "number": "2.4.6",
   "title": "",
   "body": "  Combien y a-t-il de pistes de ski?    26.   "
+},
+{
+  "id": "the-cure",
+  "level": "1",
+  "url": "the-cure.html",
+  "type": "Section",
+  "number": "3.1",
+  "title": "The Cure",
+  "body": " The Cure  The Cure est un groupe anglais.  "
 }
 ]
 

@@ -7,6 +7,16 @@
     <title>The Cure</title>
     
     <p>The Cure est un groupe anglais qui a été créé à Crawley en 1976 par Robert Smith et Lol Tolhurst.</p>
+    <p>C'était mon groupe préféré quand j'étais adolescent.</p>
+    <p>
+      Voici une de leurs chansons les plus connues.
+      <figure>
+        <caption>The Cure - Just Like Heaven.</caption>
+        <video xml:id="the-cure-just-like-heaven" youtube="n3nPiBai66M" />
+      </figure>
+    </p>
+
+
   </section>
 
 </chapter>

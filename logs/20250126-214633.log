@@ -1,0 +1,17 @@
+WARNING : Using CLI version 2.12.0 but project's `requirements.txt`
+WARNING : is configured to use 2.3.0. Consider either installing
+WARNING : CLI version 2.3.0 or running `pretext update`
+WARNING : to update `requirements.txt` and other managed files to match 2.12.0.
+INFO    : Now preparing local server to preview your project directory `/workspaces/histoires`.
+INFO    :   (Reminder: use `pretext deploy` to deploy your built project to a public
+INFO    :   GitHub Pages site that can be shared with readers who cannot access your
+INFO    :   personal computer.)
+INFO    : 
+INFO    : starting server ...
+INFO    : Running in a codespace, so using a subprocess server.
+INFO    : Starting the server
+INFO    : Added server entry 781e9c3e21 3673 8128 localhost
+
+INFO    : Server will soon be available at https://expert-goggles-j7prgqpx6vvf5x65-8128.app.github.dev
+INFO    : Opening browser for target `web` at https://expert-goggles-j7prgqpx6vvf5x65-8128.app.github.dev/output/web
+INFO    : 

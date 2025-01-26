@@ -1,0 +1,35 @@
+WARNING : Using CLI version 2.12.0 but project's `requirements.txt`
+WARNING : is configured to use 2.3.0. Consider either installing
+WARNING : CLI version 2.3.0 or running `pretext update`
+WARNING : to update `requirements.txt` and other managed files to match 2.12.0.
+INFO    : Since no target was supplied, we will use "web".
+
+INFO    : Building target web
+INFO    : Preparing to build into /workspaces/histoires/output/web.
+INFO    : XSL conversion of /workspaces/histoires/source/main.ptx by /home/vscode/.ptx/2.12.0/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : successful application of /home/vscode/.ptx/2.12.0/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : discovering source file's directory name: /workspaces/histoires/source
+INFO    : verifying and expanding input directory: /workspaces/histoires/source/../generated-assets
+INFO    : input directory expanded to absolute path: /workspaces/histoires/generated-assets
+INFO    : verifying and expanding input directory: /workspaces/histoires/source/../assets
+INFO    : input directory expanded to absolute path: /workspaces/histoires/assets
+INFO    : Runestone Services via online CDN query: version 7.5.3
+INFO    : Downloading Runestone Services, version 7.5.3
+INFO    : Extracting Runestone Services from archive file
+INFO    : converting /workspaces/histoires/source/main.ptx to HTML in /tmp/ptx-zzlp90k8
+INFO    : XSL conversion of /workspaces/histoires/source/main.ptx by /home/vscode/.ptx/2.12.0/core/xsl/pretext-html.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+WARNING : * PTX:DEPRECATE: (2024-10-08) elements previously included in a "titlepage" element inside the "frontmatter" (author, editor, credit, date, and event) should now be placed in "frontmatter/bibinfo".  To ensure a title page is created, put only the empty element "titlepage-items" inside "titlepage".  Until you move these elements, we will try to honor your intent. (1 time)
+INFO    : *              located within: "frontmatter" (xml:id)
+INFO    : * --------------
+WARNING : * PTX:DEPRECATE: (2024-07-12) the html/css/@style publication file entry has been deprecated for replacement by @theme. See the Guide for theme options.
+INFO    : * --------------
+INFO    : successful application of /home/vscode/.ptx/2.12.0/core/xsl/pretext-html.xsl
+INFO    : Removing temporary directory /tmp/ptx-16kkmwcm
+INFO    : Removing temporary directory /tmp/ptx-zzlp90k8
+INFO    : 
+Success! Run `pretext view` to see the results.
+
+INFO    : 

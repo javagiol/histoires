@@ -54,4 +54,52 @@
 
   </section>
 
+  <section xml:id="explosions">
+    <title>Explosions in the Sky</title>
+
+    <p>
+      Explosions in the Sky est un groupe de post-rock américain.
+      Il existe depuis 1999 et vient d'Austin au Texas.
+    </p>
+    <p>
+      Dans leurs chansons, personne ne chante.
+      Leur musique contient de nombreuses montées mélodiques et dynamiques.
+    </p>
+    <p>
+      Voici la première de leurs chansons que j'aie connue.
+      <figure>
+        <caption>Explosions in the Sky - Your Hand in Mine.</caption>
+        <video xml:id="explosions-your-hand" youtube="1aMQ8db4Y4c" />
+      </figure> 
+    </p>
+    <p>
+      Dès la première note, je me retrouve plongé au Texas où j'ai vécu trois ans, de 2006 à 2009.
+      En même temps, je repense aux premières fois où Maman est venue m'y rejoindre.
+      C'était le début de notre histoire d'amour : que de beaux souvenirs!
+    </p>
+    <p>
+      Dans la chanson suivante, il y a une voix au début.
+      Quand je l'entends, je me revois au volant de ma Ford Escort bleu délavé, en route pour aller chercher Maman à l'aéroport George Bush de Houston.
+      <figure>
+        <caption>Explosions in the Sky - Have You Passed Through This Night?</caption>
+        <video xml:id="explosions-have-you" youtube="fPdcWom3DXU" />
+      </figure> 
+    </p>
+    <p>
+      Explosions in the Sky a signé plusieurs musiques de film, à commencer par celle de Friday Night Lights en 2004.
+      C'est un bon film de sport que je vous recommande.
+      Il raconte l'histoire d'une équipe de football du secondaire qui essaie de gagner le championnat du Texas.
+      La fin du match est épique.
+      La voilà.
+      <figure>
+        <caption>Friday Night Lights - Fin de la finale</caption>
+        <video xml:id="friday-night-lights" youtube="kjbuk6HXS3o" />
+      </figure> 
+    </p>
+    <p>
+      Un jour on regardera ce film ensemble, ok?
+    </p>
+
+  </section>
+
 </chapter>

@@ -449,6 +449,42 @@ var ptx_lunr_docs = [
   "number": "3.1.4",
   "title": "",
   "body": " The Cure - In Between Days.   "
+},
+{
+  "id": "explosions",
+  "level": "1",
+  "url": "explosions.html",
+  "type": "Section",
+  "number": "3.2",
+  "title": "Explosions in the Sky",
+  "body": " Explosions in the Sky  Explosions in the Sky est un groupe de post-rock américain. Il existe depuis 1999 et vient d'Austin au Texas.  Dans leurs chansons, personne ne chante. Leur musique contient de nombreuses montées mélodiques et dynamiques.  Voici la première de leurs chansons que j'aie connue.  Explosions in the Sky - Your Hand in Mine.     Dès la première note, je me retrouve plongé au Texas où j'ai vécu trois ans, de 2006 à 2009. En même temps, je repense aux premières fois où Maman est venue m'y rejoindre. C'était le début de notre histoire d'amour : que de beaux souvenirs!  Dans la chanson suivante, il y a une voix au début. Quand je l'entends, je me revois au volant de ma Ford Escort bleu délavé, en route pour aller chercher Maman à l'aéroport George Bush de Houston.  Explosions in the Sky - Have You Passed Through This Night?     Explosions in the Sky a signé plusieurs musiques de film, à commencer par celle de Friday Night Lights en 2004. C'est un bon film de sport que je vous recommande. Il raconte l'histoire d'une équipe de football du secondaire qui essaie de gagner le championnat du Texas. La fin du match est épique. La voilà.  Friday Night Lights - Fin de la finale     Un jour on regardera ce film ensemble, ok?  "
+},
+{
+  "id": "explosions-4-1",
+  "level": "2",
+  "url": "explosions.html#explosions-4-1",
+  "type": "Figure",
+  "number": "3.2.1",
+  "title": "",
+  "body": " Explosions in the Sky - Your Hand in Mine.   "
+},
+{
+  "id": "explosions-6-1",
+  "level": "2",
+  "url": "explosions.html#explosions-6-1",
+  "type": "Figure",
+  "number": "3.2.2",
+  "title": "",
+  "body": " Explosions in the Sky - Have You Passed Through This Night?   "
+},
+{
+  "id": "explosions-7-1",
+  "level": "2",
+  "url": "explosions.html#explosions-7-1",
+  "type": "Figure",
+  "number": "3.2.3",
+  "title": "",
+  "body": " Friday Night Lights - Fin de la finale   "
 }
 ]
 
